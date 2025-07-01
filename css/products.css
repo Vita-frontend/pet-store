@@ -1,0 +1,17 @@
+.products__animated-carousel {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.products__animated-carousel-inner {
+    transition: transform 0.5s ease-in-out;
+    display: flex;
+}
+
+.products__animated-carousel .products__list {
+    display: flex;
+    flex: 0 0 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}

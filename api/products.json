@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "img": "img/product1.jpg",
+        "title": "OPTY Pet Carrier",
+        "price":"$8.00"
+    },
+    {
+        "id": "2",
+        "img": "img/product2.jpg",
+        "title": "OPTY Pet Carrier",
+        "price":"$8.00"
+    },
+    {
+        "id": "3",
+        "img": "img/product1.jpg",
+        "title": "OPTY Pet Carrier",
+        "price":"$8.00"
+    },
+    {
+        "id": "4",
+        "img": "img/product1.jpg",
+        "title": "OPTY Pet Carrier",
+        "price":"$8.00"
+    },
+    {
+        "id": "5",
+        "img": "img/product1.jpg",
+        "title": "OPTY Pet Carrier",
+        "price":"$8.00"
+    }
+]
